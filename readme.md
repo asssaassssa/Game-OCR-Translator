@@ -41,7 +41,7 @@ https://github.com/user-attachments/assets/4e9b0fd0-fd4c-4b2b-b04f-45efc1bdaf51
 
 ```bash
 # 克隆项目到本地
-git clone https://github.com/[你的用户名]/Game-OCR-Translator.git
+git clone https://github.com/asssaassssa/Game-OCR-Translator.git
 cd Game-OCR-Translator
 
 # 安装依赖
