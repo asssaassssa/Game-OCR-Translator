@@ -11,6 +11,10 @@
 
 ---
 
+
+https://github.com/user-attachments/assets/4e9b0fd0-fd4c-4b2b-b04f-45efc1bdaf51
+
+
 ##  项目简介 (Introduction)
 
 针对外语游戏汉化缺失及传统查词方式（Alt+Tab 切屏）割裂沉浸感的问题，本项目设计并实现了一款**基于追踪光标状态与即时 OCR 技术的零干扰辅助查词工具**。（其实是作者玩喵基因时一时兴起了）
