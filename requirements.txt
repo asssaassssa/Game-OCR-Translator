@@ -1,0 +1,7 @@
+PyQt6
+paddlepaddle-gpu==2.6.1
+paddleocr==2.7.3
+mss
+numpy==1.24.3
+pyautogui
+opencv-python==4.6.0.66
