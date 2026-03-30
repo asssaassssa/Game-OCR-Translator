@@ -1,6 +1,6 @@
 #  Game-OCR-Translator | 游戏即时翻译助手
 
-> **第 35 届“冯如杯”学生学术科技作品竞赛参赛项目**
+> **第 36 届“冯如杯”学生学术科技作品竞赛参赛项目**
 >
 > A Zero-Interference Screen Translator based on PyQt6 & PaddleOCR.
 
